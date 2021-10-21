@@ -5,9 +5,7 @@ sviluppo di una cella robotizzata per svolgere la fase di caricamento e svuotamn
 ## zoom gripper
 |xrs201| xrs202 |
 | :---: |:---:|
-|![zoom_XRS201](https://user-images.githubusercontent.com/49036361/138302852-674ed3cb-8875-469f-a93e-264e3b11c8bb.JPG)
-|![zoom_motore](https://user-images.githubusercontent.com/49036361/138302870-68873ec8-014e-494c-ae6c-508642fd32e3.JPG)
-|
+|![zoom_XRS201](https://user-images.githubusercontent.com/49036361/138302852-674ed3cb-8875-469f-a93e-264e3b11c8bb.JPG)|![zoom_motore](https://user-images.githubusercontent.com/49036361/138302870-68873ec8-014e-494c-ae6c-508642fd32e3.JPG)|
 ## TEAM
 | <a href="https://marcomilanesi.com/" target="_blank">**Marco Milanesi**</a> | <a href="https://github.com/EdoGitMira" target="_blank">**Edoardo Mirandola**</a> |
 | :---: |:---:|
